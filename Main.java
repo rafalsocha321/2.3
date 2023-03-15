@@ -8,7 +8,7 @@ class Main {
       suma=suma+i;
     }
 
-    System.out.println("Suma wszystkich liczb wynosi           "+suma);
+    System.out.println("Suma wszystkich liczb wynosi " + suma);
     
     
   }
